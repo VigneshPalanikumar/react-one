@@ -12,6 +12,7 @@ class Garage extends React.Component {
     return (
       <div>
       <h1>Who lives in my Garage?</h1>
+      <h1>sudharsan</h1>
       <Car brand="Ford" />
       </div>
     );
