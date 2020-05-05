@@ -23,8 +23,7 @@ function App() {
     <Greet name='Us' />
     <Greet name='China'>
          <p>Children</p> 
-    //</Greet>
-    
+    </Greet>
     <Welcome name='Diana'>
         <p>Children from Class component</p>
     </Welcome>
